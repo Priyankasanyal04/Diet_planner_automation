@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="drb9FwhVOEWp0ZlwqxhkjA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" CVScreenId="98363842-1ac3-4f80-9010-5853356d3f28" CvElementArea="858, 947, 200, 65" CvTextArea="908, 969, 100, 22" CvTextArgument="Generate" CvType="Button" DesignTimeRectangle="861, 949, 195, 60" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='_button_1l7k0_1 _interaction_11et8_1 svelte-11o9glk' aaname='Generate ' check:innerText='Generate' /&gt;" Guid="51681619-9ada-440e-9df9-16f2bc760347" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automatic Meal Planner - Eat This Much' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9afc0ad032ec00534a75019726ec70ef.png" xmlns="">0XM9LCRw0z0mnKZH-e98l2A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dnpZcsCVLk2bxeXViONt2g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" CVScreenId="a589c930-c960-4668-87f1-3fb8365dc79d" CvElementArea="905, 500, 89, 64" CvType="InputBox" DesignTimeRectangle="907, 501, 84, 60" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='number' class='svelte-1usyn2z' aaname='' /&gt;" Guid="d467463f-c5cb-414b-8b83-f1068f488e8c" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automatic Meal Planner - Eat This Much' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a589c930-c960-4668-87f1-3fb8365dc79d" CvTextArea="756, 522, 140, 21" CvTextArgument="I want to eat" CvType="Text" DesignTimeRectangle="239, 513, 656, 36" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='I want to eat' tag='SPAN' type='' class='label svelte-1p7c7q7' check:innerText='I want to eat' /&gt;" Guid="c8b456e1-f87f-4ffc-a663-49bd3f6dcb8d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bf131f9488cded63ac389b069f0bcc9f.png" xmlns="">0YR5rh_KSnUWakfD-jz5XRQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
