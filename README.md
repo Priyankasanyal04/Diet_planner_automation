@@ -1,2 +1,2 @@
-Project Overview
+Project Overview:
 This Diet Planner Automation project, built using UiPath Studio, is designed to assist users in making informed dietary choices. The automation prompts the user to input their height and weight, calculates their Body Mass Index (BMI), and then offers personalized options based on the result. Depending on the BMI category, users can choose to either explore diet recommendations from the web or proceed with a customized diet plan tailored within the automation. This project showcases the integration of user interaction, conditional logic, and web automation capabilities in UiPath Studio.
